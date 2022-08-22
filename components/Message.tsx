@@ -16,7 +16,7 @@ const StyledMessage = styled.p`
 
 const StyledSenderMessage = styled(StyledMessage)`
 	margin-left: auto;
-	background-color: #dcf8c6;
+	background-color: rgb(248 198 217)
 `
 
 const StyledReceiverMessage = styled(StyledMessage)`
